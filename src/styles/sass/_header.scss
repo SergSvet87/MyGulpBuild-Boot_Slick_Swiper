@@ -1,0 +1,40 @@
+/*---------------------
+  Header
+-----------------------*/
+.header {
+  background: $c-primary;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.header__logo {
+  padding: 20px 0;
+}
+
+.header__menu {
+  text-align: center;
+
+  ul {
+    li {
+      display: inline-block;
+      margin-right: 16px;
+
+      &.active {
+        a {
+          background: $c-primary;
+          color: $c-white;
+        }
+      }
+
+      &:hover {
+        a {
+          color: $c-white;
+        }
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+}

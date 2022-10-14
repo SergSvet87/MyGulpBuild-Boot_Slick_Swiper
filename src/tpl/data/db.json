@@ -1,0 +1,163 @@
+{
+  "cars": [
+    {
+      "sport": [
+        {
+          "id": 0,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FLam-Urus.png?alt=media&token=1c7aa7d9-f4b5-4a3b-9c17-7bbba295748e",
+          "name": "Lamborghini Urus Pearl",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 4.0,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 5
+        },
+        {
+          "id": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FFer-Calif.png?alt=media&token=64ee7edb-f82f-4896-8a00-d53fdac05800",
+          "name": "Ferrari California Turismo",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 3.9,
+          "year": 2018,
+          "transmission": "автомат",
+          "places": 4
+        },
+        {
+          "id": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FChev-Corvette.png?alt=media&token=aa6fd34a-40f9-44c4-990e-c1210631dfe0",
+          "name": "Chevrolet Corvette Stingray",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.2,
+          "year": 2017,
+          "transmission": "автомат",
+          "places": 2
+        },
+        {
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FChev-Camaro.png?alt=media&token=1a701a81-a121-4d3a-83bb-9d11ff45d47b",
+          "name": "Chevrolet Camaro Witwicky",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 3.6,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 4
+        },
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FAudi-R8.png?alt=media&token=97a1be85-0121-4ab9-a168-cd9755cc86dc",
+          "name": "Audi R8 Performance",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 5.2,
+          "year": 2018,
+          "transmission": "автомат",
+          "places": 2
+        },
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FLam-Huracan.png?alt=media&token=037bef5f-d630-46a5-828b-37cd80d91ceb",
+          "name": "Lamborghini Huracan Spyder",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 5.2,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 2
+        },
+        {
+          "id": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FMaserati-Quatt.png?alt=media&token=83fe288d-8c06-4066-bcf1-f56c00ab72b8",
+          "name": "Maserati Quattroporte GT",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 3.0,
+          "year": 2018,
+          "transmission": "автомат",
+          "places": 2
+        },
+        {
+          "id": 7,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FDodge-Chall.png?alt=media&token=1d677428-2de7-4e5e-b942-1a81c491de3a",
+          "name": "Dodge Challenger SRT",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.4,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 4
+        },
+        {
+          "id": 8,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/sport%2FNissan-GT-R.png?alt=media&token=c938255d-e4da-466b-ae7d-3231db53a75d",
+          "name": "Nissan GT-R",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 3.8,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 2
+        }
+      ]
+    },
+
+    {
+      "luxury": [
+        {
+          "id": 0,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FRR-Ghost.png?alt=media&token=bf095465-0f19-4d36-a7a7-efe24d6f9b6a",
+          "name": "Rolls-Royce Ghost",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.6,
+          "year": 2017,
+          "transmission": "автомат",
+          "places": 5
+        },
+        {
+          "id": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FBent-Bentayaga.png?alt=media&token=4be2278f-2627-400e-b839-5cb5e4fb68c1",
+          "name": "Bentley Bentayga",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.0,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 5
+        },
+        {
+          "id": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FRR-Phantom.png?alt=media&token=d04393c8-48d2-444b-9ce4-07e1c0c08846",
+          "name": "Rolls-Royce Phantom",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.8,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 5
+        },
+        {
+          "id": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FRR-Wraith.png?alt=media&token=8c894b99-f33e-4bb4-9e53-d13d5cdef405",
+          "name": "Rolls-Royce Wraith",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.6,
+          "year": 2018,
+          "transmission": "автомат",
+          "places": 4
+        },
+        {
+          "id": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FBent-Continent.png?alt=media&token=7125e2ad-28de-4c47-b1b7-bde5092513ee",
+          "name": "Bentley Continental",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.0,
+          "year": 2018,
+          "transmission": "автомат",
+          "places": 4
+        },
+        {
+          "id": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/luxorides-cars.appspot.com/o/luxury%2FRR_Cull.png?alt=media&token=51c4a01a-84d8-4be3-92e7-564121ce06bf",
+          "name": "Rolls-Royce Cullinan",
+          "gear": "\u043f\u043e\u043b\u043d\u044b\u0439",
+          "engine": 6.7,
+          "year": 2019,
+          "transmission": "автомат",
+          "places": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+// Скидання стилів
+@import "sass/normalize";
+@import "sass/reset";
+
+// Підключення Bootstrap
+// Functions first
+@import "../../node_modules/bootstrap/scss/functions";
+// Required Bootstrap imports
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/maps";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/root";
+// Optional components
+@import "../../node_modules/bootstrap/scss/grid";
+
+// Підключення Slick
+@import "../../node_modules/slick-carousel/slick/slick.scss";
+
+// Підключення Swiper
+@import "../../node_modules/swiper/swiper-bundle.min.css";
+
+// Основні змінні для всього сайту
+@import "sass/fonts";
+@import "sass/variables";
+@import "sass/general";
+@import "sass/mixins";
+
+// Блоки на сторінці
+@import "sass/home";
+@import "sass/header";
+@import "sass/breadcrumb";
+@import "sass/about";
+@import "sass/team";
+@import "sass/contacts";
+@import "sass/footer";
+
+// Підключення інших сторінок
+// @import "sass/login";
+
+// Медіа запити
+@import "sass/responsive";
